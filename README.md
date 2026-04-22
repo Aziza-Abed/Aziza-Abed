@@ -30,13 +30,13 @@
 
 CS Graduate (2026) · I build backend systems that actually work — not just in theory.
 
-My graduation project was a field management system for **Al-Bireh Municipality** — a real client, real workers using it every day. I handled the entire backend: APIs, auth & permissions, real-time tracking, and map-based logic. First time working at that scale. Figured it out.
+My graduation project was a field management system for **Al-Bireh Municipality** — a real client, with real workers using it daily. I handled the full backend: APIs, authentication & authorization, real-time tracking, and GIS-based logic. This was my first time building a system at this scale, where I had to deal with real-world constraints like offline usage, GPS accuracy, and data consistency.
 
-At **iConnect Technologies**, I completed a 400-hour internship and came out with a full-stack system built in ASP.NET Core and Angular — and a much better understanding of how backend and frontend fit together.
+At **iConnect Technologies**, I completed a 400-hour internship and built a full-stack task management system using ASP.NET Core and Angular, which strengthened my understanding of how backend and frontend work together in real applications.
 
-I learn by searching, trying, and building.
+I learn by breaking real problems — then figuring out how to solve them.
 
-> 🎯 Looking for **Backend (.NET)** or **Full-Stack** roles where I can work on real projects and keep growing.
+> 🎯 Looking for a **Backend (.NET)** or **Full-Stack** role where I can work on real systems and keep improving.
 
 ---
 
@@ -77,25 +77,30 @@ I learn by searching, trying, and building.
 ### 🏙️ [FollowUp — Smart Field Management System](https://github.com/Aziza-Abed/FollowUp-System-Graduation-Project)
 > **Graduation Project** · ASP.NET Core · SQL Server · SignalR · JWT · GIS
 
-A municipality field management platform built for real-world operations. I led the full backend architecture — from designing RESTful APIs for task tracking and attendance, to implementing real-time location features using **SignalR** and **geofencing logic**. Includes JWT-based auth, RBAC, and offline-first mobile sync.
+A municipality field management platform built for real-world operations.
 
-**Highlights:** Real-time tracking · GIS integration · Clean Architecture · Role-Based Access Control
+- Designed and built backend APIs for tasks, attendance, and issue reporting
+- Implemented real-time tracking using **SignalR**
+- Built GPS-based attendance using **geofencing logic**
+- Developed offline-first sync handling for unstable network conditions
+
+**Highlights:** Real-time tracking · GIS integration · RBAC · Offline-first architecture
 
 ---
 
 ### ✅ [Task Management System](https://github.com/Aziza-Abed/TaskManagementSummer2025TrainingProject)
 > **Internship Project @ iConnect Technologies** · ASP.NET Core · Angular · Clean Architecture
 
-Full-stack task management application developed during a 400-hour professional internship. Built the backend APIs from scratch, integrated with Angular frontend, and applied **Clean Architecture** for long-term scalability.
+Full-stack task management system built during a 400-hour internship.
 
-**Highlights:** CRUD workflows · Auth & task states · Clean Architecture · RESTful API design
+**Highlights:** CRUD workflows · Authentication · Task lifecycle management · Clean Architecture
 
 ---
 
 ### 🎬 [CineMap — Movie Discovery App](https://github.com/Aziza-Abed)
 > JavaScript · TMDB API · REST Countries API
 
-Web app that maps movies to their production countries using public APIs. Focused on clean API consumption patterns and dynamic content rendering.
+Web app using TMDB & REST Countries APIs to map movies by production country.
 
 ---
 
@@ -103,8 +108,8 @@ Web app that maps movies to their production countries using public APIs. Focuse
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aziza-Abed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziza-Abed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aziza-Abed&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziza-Abed&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 
 </div>
 
@@ -118,6 +123,8 @@ Web app that maps movies to their production countries using public APIs. Focuse
 - 👩‍💻 **Women in CTRL Hackathon** — Ibtikar Fund × Finomena, 2025
 
 ---
+
+## 🐍 Watch my commits get eaten alive
 
 <div align="center">
 
