@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aziza%20Abed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Angular&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Aziza%20Abed&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Angular&amp;descAlignY=58&amp;descSize=18&amp;descColor=a8d8ea&amp;animation=fadeIn" width="100%" />
 
 </div>
 
@@ -135,6 +135,6 @@ Web app that maps movies to their production countries using public APIs. Focuse
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
