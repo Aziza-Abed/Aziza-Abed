@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A8D8EA&center=true&vCenter=true&width=500&lines=Backend+%26+Full-Stack+Developer;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;Building+real+systems+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=A8D8EA&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Backend+%26+Full-Stack+Developer;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;Building+real+systems+that+actually+work.)](https://git.io/typing-svg)
 
 </div>
 
@@ -118,8 +118,6 @@ Web app that maps movies to their production countries using public APIs. Focuse
 - 👩‍💻 **Women in CTRL Hackathon** — Ibtikar Fund × Finomena, 2025
 
 ---
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
