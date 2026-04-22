@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=Aziza%20Abed&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full-Stack%20Developer%20%7C%20.NET%20%26%20Angular&amp;descAlignY=58&amp;descSize=18&amp;descColor=a8d8ea&amp;animation=fadeIn" width="100%" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aziza%20Abed&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn)
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=A8D8EA&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Backend+%26+Full-Stack+Developer;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;Building+real+systems+that+actually+work.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A8D8EA&center=true&vCenter=true&width=500&lines=Backend+%26+Full-Stack+Developer;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;Building+real+systems+that+actually+work.)
 
 </div>
 
@@ -18,7 +18,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aziza%20Abed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziza-abed121/)
 [![Email](https://img.shields.io/badge/Gmail-azezehabed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azezehabed@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B972%20593%20632%20407-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+972593632407)
 
 </div>
 
@@ -140,6 +139,6 @@ Web app using TMDB & REST Countries APIs to map movies by production country.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,50:203a43,100:0f2027&amp;height=120&amp;section=footer" width="100%" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer)
 
 </div>
